@@ -1,0 +1,14 @@
+﻿.navbar-default {
+    background-color: #23629a;
+    border-color: #e7e7e7;
+    height:71px;
+    padding-top: 11px;
+}
+navbar-default .navbar-nav>li>a {
+    color: #b2b37f;
+}
+.btn-default {
+    color: #b2b37f;
+    background-color: #23629a;
+    border-color: #ccc;
+}
